@@ -1,0 +1,26 @@
+body {
+  background: red;
+  margin-right: 20px;
+}
+
+header {
+  margin-top: 30px;
+}
+
+h1 {
+  color: blue;
+  font-family: inherit;
+}
+
+p {
+  font-size: 18px;
+}
+
+.img_padrao {
+  margin-bottom: 30px;
+  width: 100px;
+}
+
+footer {
+  margin-bottom: 30px;
+}
